@@ -16,7 +16,7 @@ In this episode, I will use my Terraform skills and maybe some Googling to build
 ### 1. Create User Account for Terraform
 - Create **User** Account with Role **AdministratorAccess**
 
-*This is for demonstration purposes. Please assign the apprioriate roles you require for the resources you plan to deploy.
+*This is for demonstration purposes. Please assign the apprioriate roles you require for the resources you plan to deploy.*
 
 ### 2. Configure Terraform AWS provider
 
@@ -26,7 +26,7 @@ In this episode, I will use my Terraform skills and maybe some Googling to build
 
 - Update the locals.tf and add your public key in the *public_key* value.
 
-*Your Private Key should be in your default location (Windows is generally C:\Users\suername\.ssh\id_rsa)
+*Your Private Key should be in your default location (Windows is generally C:\Users\suername\.ssh\id_rsa)*
 
 ## **Terraform Configuration Files: (after scratching my head from time to time)**
 
