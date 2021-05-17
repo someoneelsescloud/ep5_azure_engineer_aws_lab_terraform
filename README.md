@@ -26,8 +26,8 @@ In this episode, I will use my Terraform skills and maybe some Googling to build
 
 - Update the locals.tf and add your public key in the *public_key* value.
 - Copy your Public Key to ./scripts/id_rsa or update the locations in the following files:
--   Update location of file in Line 64 in *main.tf*
--   Update location of file in Line 3 in *locals.tf*
+- Update location of file in Line 64 in *main.tf*
+- Update location of file in Line 3 in *locals.tf*
 
 *Your Private Key should be in your default location (Windows is generally C:\Users\username\.ssh\id_rsa)*
 
