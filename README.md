@@ -42,11 +42,11 @@ In this episode, I will use my Terraform skills and maybe some Googling to build
 |vpc.tf|VPC, Subnet, Internet Gateway and Route Table|
 
 
-|Script Name|Link|
+|Script Name|Description|
 |---|---|
-|[install-cloudwatchagent-windows-userdata.ps1](https://gist.github.com/it-am/4e353a0b3c70a48d4041d307f6fa8a61)|
-|[CloudWatch Config EC2 Windows Sample](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/QuickStartWindows2016.html#configure_cwl_download)|
-|[Create IAM Roles and Users for Use with the CloudWatch Agent](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/create-iam-roles-for-cloudwatch-agent.html)|
+|[install-cloudwatchagent-windows-userdata.ps1](https://gist.github.com/it-am/4e353a0b3c70a48d4041d307f6fa8a61)|PowerShell script to configure CloudWatch Agent|
+|[CloudWatch Config EC2 Windows Sample](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/QuickStartWindows2016.html#configure_cwl_download)|Amazon Sample Windows Configuration for CloudWatch Agent|
+|[Create IAM Roles and Users for Use with the CloudWatch Agent](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/create-iam-roles-for-cloudwatch-agent.html)|Required IAM Roles for the CloudWatch Agent|
 
 ### **AWS Lab Overview**
 
