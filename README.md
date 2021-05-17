@@ -23,7 +23,7 @@ This is for demonstration purposes. Please assign the apprioriate roles you requ
 
 Configure the providers.tf file with the details that will be outputted from above.
 
-### 3. Configure Public Key for aws_key_pair for access to EC2 Instance
+### 3. Configure Public Key to access EC2 Instance
 
 Update the locals.tf and add your public key in the *public_key* value.
 Your Private Key should be in your default location (Windows is generally C:\Users\suername\.ssh\id_rsa)
