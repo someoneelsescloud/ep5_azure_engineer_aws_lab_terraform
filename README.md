@@ -11,6 +11,7 @@ In this episode, I will use my Terraform skills and maybe some Googling to build
 
 ## Prerequisites
 - AWS Account
+- Private and Public Key Pair
 
 ## Prepare your Environment
 ### 1. Create User Account for Terraform
@@ -22,6 +23,10 @@ This is for demonstration purposes. Please assign the apprioriate roles you requ
 
 Configure the providers.tf file with the details that will be outputted from above.
 
+### 3. Configure Public Key for aws_key_pair for access to EC2 Instance
+
+Update the locals.tf and add your public key in the *public_key* value.
+Your Private Key should be in your default location (Windows is generally C:\Users\suername\.ssh\id_rsa)
 
 ## **Terraform Configuration Files: (after scratching my head from time to time)**
 
