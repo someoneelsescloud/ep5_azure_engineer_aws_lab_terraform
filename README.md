@@ -1,4 +1,4 @@
-# EP6 - Azure Engineer Builds AWS Lab with Terraform
+# EP5 - Azure Engineer Builds AWS Lab with Terraform
 
 Let start with, if you came here to for AWS knowledge, expect very basic information but if you wanted to see what an Azure Engineer would do in AWS, keep watching!
 
