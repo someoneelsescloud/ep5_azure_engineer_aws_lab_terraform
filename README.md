@@ -2,8 +2,7 @@
 
 Let start with, if you came here to for AWS knowledge, expect very basic information but if you wanted to see what an Azure Engineer would do in AWS, keep watching!
 
-As mentioned, my knowledge and experience in AWS is lacking. I know basic concepts but have never deployed anything besides an EC2 Instance in the AWS console.
-As you know (or don't know), I work with Azure everyday and have been for approximately 2.5 years now!
+As you know (or don't know), I work with Azure day to day! My knowledge and experience in AWS is lacking and I know basic concepts but have never deployed anything besides an EC2 Instance via the AWS console.
 
 In my last episode [EP4 - Build an Azure Lab with Terraform](https://www.someoneelsescloud.com/episodes/ep4-build-an-azure-lab-with-terraform), I talk about the current industry trends about multi-cloud. And that learning a declaritive language like Hashicorp Configuration Language (HCL), could be beneficial and help bridge the gap to become cloud agnostic.
 
@@ -15,18 +14,19 @@ In this episode, I will use my Terraform skills and maybe some Googling to build
 
 ## Prepare your Environment
 ### 1. Create User Account for Terraform
-Create **User** Account with Role **AdministratorAccess**
+- Create **User** Account with Role **AdministratorAccess**
 
-This is for demonstration purposes. Please assign the apprioriate roles you require for the resources you plan to deploy.
+*This is for demonstration purposes. Please assign the apprioriate roles you require for the resources you plan to deploy.
 
 ### 2. Configure Terraform AWS provider
 
-Configure the providers.tf file with the details that will be outputted from above.
+- Configure the providers.tf file with the details that will be outputted from above.
 
 ### 3. Configure Public Key to access EC2 Instance
 
-Update the locals.tf and add your public key in the *public_key* value.
-Your Private Key should be in your default location (Windows is generally C:\Users\suername\.ssh\id_rsa)
+- Update the locals.tf and add your public key in the *public_key* value.
+
+*Your Private Key should be in your default location (Windows is generally C:\Users\suername\.ssh\id_rsa)
 
 ## **Terraform Configuration Files: (after scratching my head from time to time)**
 
