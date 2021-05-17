@@ -25,8 +25,11 @@ In this episode, I will use my Terraform skills and maybe some Googling to build
 ### 3. Configure Public Key to access EC2 Instance
 
 - Update the locals.tf and add your public key in the *public_key* value.
+- Copy your Public Key to ./scripts/id_rsa or update the locations in the following files:
+-   Update location of file in Line 64 in *main.tf*
+-   Update location of file in Line 3 in *locals.tf*
 
-*Your Private Key should be in your default location (Windows is generally C:\Users\suername\.ssh\id_rsa)*
+*Your Private Key should be in your default location (Windows is generally C:\Users\username\.ssh\id_rsa)*
 
 ## **Terraform Configuration Files: (after scratching my head from time to time)**
 
