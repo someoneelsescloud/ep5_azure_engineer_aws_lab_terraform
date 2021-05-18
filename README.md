@@ -11,6 +11,7 @@ In this episode, I will use my Terraform skills and maybe some Googling to build
 ## Prerequisites
 - AWS Account
 - Private and Public Key Pair
+- Terraform
 
 ## Prepare your Environment
 ### 1. Create User Account for Terraform
