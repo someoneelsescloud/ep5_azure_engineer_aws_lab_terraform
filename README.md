@@ -62,4 +62,5 @@ All naming is generated, so the AWS environment can operate in parallel!
 Hope you enjoyed the [Episode!](https://www.someoneelsescloud.com/episodes/ep5-azure-engineer-builds-aws-lab-with-terraform)
 
 Direct YouTube link to this episode: [EP5 - Azure Engineer Builds an AWS Lab with Terraform](https://youtu.be/1eHVDKk_MGw)
-Also video the website for all links and episodes: www.someoneelsescloud.com
+
+Also video the website for all links and episodes: https://www.someoneelsescloud.com/episodes/ep5-azure-engineer-builds-aws-lab-with-terraform
