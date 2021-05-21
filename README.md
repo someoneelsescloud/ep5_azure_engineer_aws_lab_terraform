@@ -59,7 +59,7 @@ In this episode, I will use my Terraform skills and maybe some Googling to build
 Also note that you can copy the files and seperate them in folders to create multiple AWS environments!
 All naming is generated, so the AWS environment can operate in parallel!
 
-Hope you enjoy the Episode!
+Hope you enjoyed the [Episode!](https://www.someoneelsescloud.com/episodes/ep5-azure-engineer-builds-aws-lab-with-terraform)
 
-Direct YouTube link to this episode: [EP5 - Azure Engineer Builds an AWS Lab with Terraform](youtubelink)
+Direct YouTube link to this episode: [EP5 - Azure Engineer Builds an AWS Lab with Terraform](https://youtu.be/1eHVDKk_MGw)
 Also video the website for all links and episodes: www.someoneelsescloud.com
